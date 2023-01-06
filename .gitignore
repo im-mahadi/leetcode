@@ -1,0 +1,5 @@
+# ignore all irrelevant files
+/node_modules
+package.json
+package-lock.json
+/src/main.ts
